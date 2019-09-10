@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">WhatsApp</string>
+
+    <string-array name="first_name">
+        <item>Avni</item>
+        <item>Anirudh</item>
+        <item>Benoi</item>
+        <item>Amayra</item>
+        <item>Shanvi</item>
+        <item>Ananya</item>
+        <item>Rahul</item>
+        <item>Tanvi</item>
+        <item>Shimona</item>
+        <item>Niharika</item>
+    </string-array>
+
+    <string-array name="messages">
+        <item>Hi</item>
+        <item>Good Morning</item>
+        <item>talk later</item>
+        <item>call back</item>
+        <item>hello</item>
+        <item>Namaste</item>
+        <item>ok</item>
+        <item>Good Bye</item>
+        <item>Take Care</item>
+        <item>Coming soon</item>
+    </string-array>
+
+
+</resources>

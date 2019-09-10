@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/app_bar_search"
+        android:icon="@drawable/ic_search_black_24dp"
+        android:title="Search"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/app_bar_new_group"
+        android:icon="@drawable/ic_more_vert_black_24dp"
+        android:title="New group" />
+
+    <item
+        android:id="@+id/app_bar_search2"
+        android:icon="@android:drawable/ic_menu_search"
+        android:title="New broadcast"
+        app:actionViewClass="android.widget.SearchView" />
+
+    <item
+        android:id="@+id/app_bar_search3"
+        android:icon="@android:drawable/ic_menu_search"
+        android:title="WhatsApp Web"
+        app:actionViewClass="android.widget.SearchView" />
+
+    <item
+        android:id="@+id/app_bar_search4"
+        android:icon="@android:drawable/ic_menu_search"
+        android:title="Starred messages"
+        app:actionViewClass="android.widget.SearchView" />
+
+    <item
+        android:id="@+id/app_bar_search5"
+        android:icon="@android:drawable/ic_menu_search"
+        android:title="Settings"
+        app:actionViewClass="android.widget.SearchView" />
+
+</menu>
